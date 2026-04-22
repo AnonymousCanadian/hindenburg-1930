@@ -18,7 +18,7 @@ Q.started = 1;
 // time elapsed (in months)
 Q.time = 1;
 
-> *"quote"*
+//> *"quote"*
 
  - person, *source*, date
 !}
