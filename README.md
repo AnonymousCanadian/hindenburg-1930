@@ -1,5 +1,9 @@
 §1 In the event of a State not fulfilling the obligations imposed upon it by the Reich Constitution or by the laws of the Reich, the president of the Reich may make use of the armed forces to compel it to do so.
+
 §2 If public security and order are seriously disturbed or endangered within the German Reich, the president of the Reich may take measures necessary for their restoration, intervening if need be with the assistance of the armed forces. For this purpose he may suspend for a while, in whole or in part, the fundamental rights provided in Articles 114, 115, 117, 118, 123, 124 and 153.
+
 §3 The president of the Reich must inform the Reichstag without delay of all measures taken in accordance with Paragraphs 1 or 2 of this Article. These measures are to be revoked on the demand of the Reichstag.
+
 §4 If danger is imminent, a State government may, for its own territory, take temporary measures as provided in Paragraph 2. These measures are to be revoked on the demand of the president of the Reich or of the Reichstag.
+
 §5 Details are to be determined by a law of the Reich.
