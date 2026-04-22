@@ -1,24 +1,22 @@
 title: Root Scene
 new-page: true
+go-to: one.scene if started = 1; start_menu if started = 0
 
-//= testwip
+@start_menu
+new-page: true
+go-to: start_menu_2
 
+= testwip
+
+@start_menu_2
+
+# - @start: Start Game
+
+@start
+on-arrival: {!
 This is the root scene of "Dendry-starter-pack". The root scene is normally used
 as a hub: the choices allow you to go to different sections of your
 story. In shorter works it may just function as the first scene in the
 game, sending the player off into the tree of choices. If the root
 scene doesn't have any choices that it can display, the game is over.
-
-//- @start: Start game
-//- @credits: Credits
-
-//@start
-on-arrival: {!
-Q.started = 1;
-// time elapsed (in months)
-Q.time = 1;
-
-//> *"quote"*
-
-// - person, *source*, date
 !}
